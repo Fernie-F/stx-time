@@ -1,0 +1,534 @@
+{
+  "Africa/Algiers": {
+    "otherNames": [
+      "Africa/Algiers",
+      "Africa/El_Aaiun",
+      "Atlantic/Canary",
+      "Atlantic/Faroe",
+      "Europe/London",
+      "Europe/Dublin",
+      "Africa/Casablanca",
+      "Africa/Lagos",
+      "Europe/Lisbon",
+      "Atlantic/Madeira",
+      "Africa/Ndjamena",
+      "Africa/Tunis"
+    ],
+    "offset": "GMT+1"
+  },
+  "Europe/Andorra": {
+    "otherNames": [
+      "Europe/Andorra",
+      "Europe/Tirane",
+      "Antarctica/Troll",
+      "Europe/Vienna",
+      "Europe/Brussels",
+      "Europe/Zurich",
+      "Europe/Prague",
+      "Europe/Berlin",
+      "Europe/Copenhagen",
+      "Africa/Cairo",
+      "Europe/Madrid",
+      "Africa/Ceuta",
+      "Europe/Paris",
+      "Europe/Gibraltar",
+      "Europe/Budapest",
+      "Europe/Rome",
+      "Europe/Luxembourg",
+      "Africa/Tripoli",
+      "Europe/Monaco",
+      "Europe/Malta",
+      "Africa/Maputo",
+      "Africa/Windhoek",
+      "Europe/Amsterdam",
+      "Europe/Oslo",
+      "Europe/Warsaw",
+      "Europe/Belgrade",
+      "Europe/Kaliningrad",
+      "Africa/Khartoum",
+      "Europe/Stockholm",
+      "Africa/Johannesburg"
+    ],
+    "offset": "GMT+2"
+  },
+  "Antarctica/Syowa": {
+    "otherNames": [
+      "Antarctica/Syowa",
+      "Europe/Sofia",
+      "Europe/Minsk",
+      "Asia/Nicosia",
+      "Asia/Famagusta",
+      "Europe/Tallinn",
+      "Europe/Helsinki",
+      "Europe/Athens",
+      "Asia/Jerusalem",
+      "Asia/Baghdad",
+      "Asia/Amman",
+      "Africa/Nairobi",
+      "Asia/Beirut",
+      "Europe/Vilnius",
+      "Europe/Riga",
+      "Europe/Chisinau",
+      "Asia/Gaza",
+      "Asia/Hebron",
+      "Asia/Qatar",
+      "Europe/Bucharest",
+      "Europe/Moscow",
+      "Europe/Simferopol",
+      "Europe/Kirov",
+      "Asia/Riyadh",
+      "Africa/Juba",
+      "Asia/Damascus",
+      "Europe/Istanbul",
+      "Europe/Kiev",
+      "Europe/Uzhgorod",
+      "Europe/Zaporozhye"
+    ],
+    "offset": "GMT+3"
+  },
+  "Asia/Dubai": {
+    "otherNames": [
+      "Asia/Dubai",
+      "Asia/Yerevan",
+      "Asia/Baku",
+      "Asia/Tbilisi",
+      "Indian/Mauritius",
+      "Indian/Reunion",
+      "Europe/Astrakhan",
+      "Europe/Volgograd",
+      "Europe/Saratov",
+      "Europe/Ulyanovsk",
+      "Europe/Samara",
+      "Indian/Mahe"
+    ],
+    "offset": "GMT+4"
+  },
+  "Asia/Kabul": {
+    "otherNames": ["Asia/Kabul", "Asia/Tehran"],
+    "offset": "GMT+4:30"
+  },
+  "Antarctica/Mawson": {
+    "otherNames": [
+      "Antarctica/Mawson",
+      "Asia/Qyzylorda",
+      "Asia/Aqtobe",
+      "Asia/Aqtau",
+      "Asia/Atyrau",
+      "Asia/Oral",
+      "Indian/Maldives",
+      "Asia/Karachi",
+      "Asia/Yekaterinburg",
+      "Indian/Kerguelen",
+      "Asia/Dushanbe",
+      "Asia/Ashgabat",
+      "Asia/Samarkand",
+      "Asia/Tashkent"
+    ],
+    "offset": "GMT+5"
+  },
+  "Asia/Kolkata": {
+    "otherNames": ["Asia/Kolkata", "Asia/Colombo"],
+    "offset": "GMT+5:30"
+  },
+  "Asia/Kathmandu": { "otherNames": ["Asia/Kathmandu"], "offset": "GMT+5:45" },
+  "Antarctica/Vostok": {
+    "otherNames": [
+      "Antarctica/Vostok",
+      "Asia/Dhaka",
+      "Asia/Thimphu",
+      "Asia/Urumqi",
+      "Indian/Chagos",
+      "Asia/Bishkek",
+      "Asia/Almaty",
+      "Asia/Qostanay",
+      "Asia/Omsk"
+    ],
+    "offset": "GMT+6"
+  },
+  "Indian/Cocos": {
+    "otherNames": ["Indian/Cocos", "Asia/Yangon"],
+    "offset": "GMT+6:30"
+  },
+  "Antarctica/Davis": {
+    "otherNames": [
+      "Antarctica/Davis",
+      "Indian/Christmas",
+      "Asia/Jakarta",
+      "Asia/Pontianak",
+      "Asia/Hovd",
+      "Asia/Novosibirsk",
+      "Asia/Barnaul",
+      "Asia/Tomsk",
+      "Asia/Novokuznetsk",
+      "Asia/Krasnoyarsk",
+      "Asia/Bangkok",
+      "Asia/Ho_Chi_Minh"
+    ],
+    "offset": "GMT+7"
+  },
+  "Australia/Perth": {
+    "otherNames": [
+      "Australia/Perth",
+      "Asia/Brunei",
+      "Asia/Shanghai",
+      "Asia/Hong_Kong",
+      "Asia/Makassar",
+      "Asia/Ulaanbaatar",
+      "Asia/Choibalsan",
+      "Asia/Macau",
+      "Asia/Kuala_Lumpur",
+      "Asia/Kuching",
+      "Asia/Manila",
+      "Asia/Irkutsk",
+      "Asia/Singapore",
+      "Asia/Taipei"
+    ],
+    "offset": "GMT+8"
+  },
+  "Australia/Eucla": {
+    "otherNames": ["Australia/Eucla"],
+    "offset": "GMT+8:45"
+  },
+  "Asia/Jayapura": {
+    "otherNames": [
+      "Asia/Jayapura",
+      "Asia/Tokyo",
+      "Asia/Pyongyang",
+      "Asia/Seoul",
+      "Pacific/Palau",
+      "Asia/Chita",
+      "Asia/Yakutsk",
+      "Asia/Khandyga",
+      "Asia/Dili"
+    ],
+    "offset": "GMT+9"
+  },
+  "Australia/Broken_Hill": {
+    "otherNames": [
+      "Australia/Broken_Hill",
+      "Australia/Adelaide",
+      "Australia/Darwin"
+    ],
+    "offset": "GMT+9:30"
+  },
+  "Antarctica/DumontDUrville": {
+    "otherNames": [
+      "Antarctica/DumontDUrville",
+      "Antarctica/Macquarie",
+      "Australia/Hobart",
+      "Australia/Currie",
+      "Australia/Melbourne",
+      "Australia/Sydney",
+      "Australia/Brisbane",
+      "Australia/Lindeman",
+      "Pacific/Chuuk",
+      "Pacific/Guam",
+      "Pacific/Port_Moresby",
+      "Asia/Vladivostok",
+      "Asia/Ust-Nera"
+    ],
+    "offset": "GMT+10"
+  },
+  "Australia/Lord_Howe": {
+    "otherNames": ["Australia/Lord_Howe"],
+    "offset": "GMT+10:30"
+  },
+  "Antarctica/Casey": {
+    "otherNames": [
+      "Antarctica/Casey",
+      "Pacific/Pohnpei",
+      "Pacific/Kosrae",
+      "Pacific/Noumea",
+      "Pacific/Norfolk",
+      "Pacific/Bougainville",
+      "Asia/Magadan",
+      "Asia/Sakhalin",
+      "Asia/Srednekolymsk",
+      "Pacific/Guadalcanal",
+      "Pacific/Efate"
+    ],
+    "offset": "GMT+11"
+  },
+  "Pacific/Fiji": {
+    "otherNames": [
+      "Pacific/Fiji",
+      "Pacific/Tarawa",
+      "Pacific/Majuro",
+      "Pacific/Kwajalein",
+      "Pacific/Nauru",
+      "Pacific/Auckland",
+      "Asia/Kamchatka",
+      "Asia/Anadyr",
+      "Pacific/Funafuti",
+      "Pacific/Wake",
+      "Pacific/Wallis"
+    ],
+    "offset": "GMT+12"
+  },
+  "Pacific/Chatham": {
+    "otherNames": ["Pacific/Chatham"],
+    "offset": "GMT+12:45"
+  },
+  "Pacific/Enderbury": {
+    "otherNames": [
+      "Pacific/Enderbury",
+      "Pacific/Fakaofo",
+      "Pacific/Tongatapu",
+      "Pacific/Apia"
+    ],
+    "offset": "GMT+13"
+  },
+  "Pacific/Kiritimati": {
+    "otherNames": ["Pacific/Kiritimati"],
+    "offset": "GMT+14"
+  },
+  "Pacific/Pago_Pago": {
+    "otherNames": ["Pacific/Pago_Pago", "Pacific/Niue"],
+    "offset": "GMT-11"
+  },
+  "Pacific/Rarotonga": {
+    "otherNames": ["Pacific/Rarotonga", "Pacific/Tahiti"],
+    "offset": "GMT-10"
+  },
+  "Pacific/Marquesas": {
+    "otherNames": ["Pacific/Marquesas"],
+    "offset": "GMT-9:30"
+  },
+  "Pacific/Gambier": { "otherNames": ["Pacific/Gambier"], "offset": "GMT-9" },
+  "Pacific/Pitcairn": { "otherNames": ["Pacific/Pitcairn"], "offset": "GMT-8" },
+  "America/Hermosillo": {
+    "otherNames": ["America/Hermosillo"],
+    "offset": "GMT-7"
+  },
+  "Pacific/Easter": {
+    "otherNames": [
+      "Pacific/Easter",
+      "Pacific/Galapagos",
+      "America/Mazatlan",
+      "America/Chihuahua"
+    ],
+    "offset": "GMT-6"
+  },
+  "America/Eirunepe": {
+    "otherNames": [
+      "America/Eirunepe",
+      "America/Rio_Branco",
+      "America/Bogota",
+      "America/Guayaquil",
+      "America/Lima"
+    ],
+    "offset": "GMT-5"
+  },
+  "America/La_Paz": {
+    "otherNames": [
+      "America/La_Paz",
+      "America/Campo_Grande",
+      "America/Cuiaba",
+      "America/Porto_Velho",
+      "America/Boa_Vista",
+      "America/Manaus",
+      "America/Santiago",
+      "America/Havana",
+      "America/Guyana",
+      "America/Asuncion",
+      "America/Caracas"
+    ],
+    "offset": "GMT-4"
+  },
+  "Antarctica/Palmer": {
+    "otherNames": [
+      "Antarctica/Palmer",
+      "Antarctica/Rothera",
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Salta",
+      "America/Argentina/Jujuy",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Catamarca",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/San_Juan",
+      "America/Argentina/Mendoza",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Ushuaia",
+      "America/Belem",
+      "America/Fortaleza",
+      "America/Recife",
+      "America/Araguaina",
+      "America/Maceio",
+      "America/Bahia",
+      "America/Sao_Paulo",
+      "America/Santarem",
+      "America/Punta_Arenas",
+      "Atlantic/Stanley",
+      "America/Cayenne",
+      "America/Paramaribo",
+      "America/Montevideo"
+    ],
+    "offset": "GMT-3"
+  },
+  "America/St_Johns": {
+    "otherNames": ["America/St_Johns"],
+    "offset": "GMT-2:30"
+  },
+  "America/Noronha": {
+    "otherNames": [
+      "America/Noronha",
+      "America/Godthab",
+      "Atlantic/South_Georgia",
+      "America/Miquelon"
+    ],
+    "offset": "GMT-2"
+  },
+  "Atlantic/Cape_Verde": {
+    "otherNames": ["Atlantic/Cape_Verde"],
+    "offset": "GMT-1"
+  },
+  "America/Barbados": {
+    "otherNames": [
+      "America/Barbados",
+      "America/Blanc-Sablon",
+      "America/Curacao",
+      "America/Santo_Domingo",
+      "America/Martinique",
+      "America/Puerto_Rico",
+      "America/Port_of_Spain"
+    ],
+    "offset": "AST"
+  },
+  "Atlantic/Bermuda": {
+    "otherNames": [
+      "Atlantic/Bermuda",
+      "America/Halifax",
+      "America/Glace_Bay",
+      "America/Moncton",
+      "America/Goose_Bay",
+      "America/Thule"
+    ],
+    "offset": "ADT"
+  },
+  "America/Nassau": {
+    "otherNames": [
+      "America/Nassau",
+      "America/Toronto",
+      "America/Nipigon",
+      "America/Thunder_Bay",
+      "America/Iqaluit",
+      "America/Pangnirtung",
+      "America/Port-au-Prince",
+      "America/Grand_Turk",
+      "America/New_York",
+      "America/Detroit",
+      "America/Kentucky/Louisville",
+      "America/Kentucky/Monticello",
+      "America/Indiana/Indianapolis",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Indiana/Marengo",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vevay"
+    ],
+    "offset": "EDT"
+  },
+  "America/Belize": {
+    "otherNames": [
+      "America/Belize",
+      "America/Regina",
+      "America/Swift_Current",
+      "America/Costa_Rica",
+      "America/Guatemala",
+      "America/Tegucigalpa",
+      "America/Managua",
+      "America/El_Salvador"
+    ],
+    "offset": "CST"
+  },
+  "America/Atikokan": {
+    "otherNames": [
+      "America/Atikokan",
+      "America/Jamaica",
+      "America/Cancun",
+      "America/Panama"
+    ],
+    "offset": "EST"
+  },
+  "America/Winnipeg": {
+    "otherNames": [
+      "America/Winnipeg",
+      "America/Rainy_River",
+      "America/Resolute",
+      "America/Rankin_Inlet",
+      "America/Mexico_City",
+      "America/Merida",
+      "America/Monterrey",
+      "America/Matamoros",
+      "America/Bahia_Banderas",
+      "America/Chicago",
+      "America/Indiana/Tell_City",
+      "America/Indiana/Knox",
+      "America/Menominee",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/North_Dakota/Beulah"
+    ],
+    "offset": "CDT"
+  },
+  "America/Edmonton": {
+    "otherNames": [
+      "America/Edmonton",
+      "America/Cambridge_Bay",
+      "America/Yellowknife",
+      "America/Inuvik",
+      "America/Ojinaga",
+      "America/Denver",
+      "America/Boise"
+    ],
+    "offset": "MDT"
+  },
+  "America/Creston": {
+    "otherNames": [
+      "America/Creston",
+      "America/Dawson_Creek",
+      "America/Fort_Nelson",
+      "America/Whitehorse",
+      "America/Dawson",
+      "America/Phoenix"
+    ],
+    "offset": "MST"
+  },
+  "America/Vancouver": {
+    "otherNames": [
+      "America/Vancouver",
+      "America/Tijuana",
+      "America/Los_Angeles"
+    ],
+    "offset": "PDT"
+  },
+  "Africa/Abidjan": {
+    "otherNames": [
+      "Africa/Abidjan",
+      "Africa/Accra",
+      "America/Danmarkshavn",
+      "America/Scoresbysund",
+      "Africa/Bissau",
+      "Atlantic/Reykjavik",
+      "Africa/Monrovia",
+      "Atlantic/Azores",
+      "Africa/Sao_Tome"
+    ],
+    "offset": "GMT"
+  },
+  "America/Anchorage": {
+    "otherNames": [
+      "America/Anchorage",
+      "America/Juneau",
+      "America/Sitka",
+      "America/Metlakatla",
+      "America/Yakutat",
+      "America/Nome"
+    ],
+    "offset": "AKDT"
+  },
+  "America/Adak": { "otherNames": ["America/Adak"], "offset": "HADT" },
+  "Pacific/Honolul": { "otherNames": ["Pacific/Honolulu"], "offset": "HST" }
+}
